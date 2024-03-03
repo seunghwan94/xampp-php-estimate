@@ -11,6 +11,7 @@
 ### 1. XAMPP 설치
 
 XAMPP를 [공식 웹사이트 V7.4.29](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.29/)에서 본인 컴퓨터에 맞는 프로그램 다운로드하고 설치합니다.
+(본인은 xampp-windows-x64-7.4.29-1-VC15-installer.exe 이거로 설치함)
 
 ### 2. PHP 설정 변경
 
