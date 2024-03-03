@@ -37,7 +37,7 @@ $btn_color =[
             </thead>
             <tbody>
                 <?  $cnt = 1;
-                if ($txtFiles){
+                if ($txtFiles[0]!='' ){
                     foreach($txtFiles as $key => $val){?>
                     <? $active = ''; ?>
                     <? if($cnt%2==0) $active='table-active'; ?>
