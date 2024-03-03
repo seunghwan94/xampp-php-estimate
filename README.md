@@ -10,7 +10,7 @@
 
 ### 1. XAMPP 설치
 
-XAMPP를 [공식 웹사이트](https://www.apachefriends.org/index.html)에서 다운로드하고 설치합니다.
+XAMPP를 [공식 웹사이트]([https://www.apachefriends.org/index.html](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.29/))에서 본인 컴퓨터에 맞는 프로그램 다운로드하고 설치합니다.
 
 ### 2. PHP 설정 변경
 
