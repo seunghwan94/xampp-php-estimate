@@ -29,14 +29,14 @@ C:\xampp\apache\conf\extra\httpd-vhosts.conf 파일을 열고 다음 코드를 �
 ```apache
 <VirtualHost *:80>
     ServerAdmin webmaster@dummy-host2.example.com
-    DocumentRoot "C:\xampp\htdocs\estimate"
-    ServerName estimate
-    ErrorLog "logs/estimate-error.log"
-    CustomLog "logs/estimate-access.log" common
+    DocumentRoot "C:\xampp\htdocs\dadestimate"
+    ServerName dadestimate
+    ErrorLog "logs/dadestimate-error.log"
+    CustomLog "logs/dadestimate-access.log" common
 </VirtualHost>
 ```
 
-이 설정은 estimate라는 이름의 로컬 웹사이트를 설정합니다.
+이 설정은 dadestimate라는 이름의 로컬 웹사이트를 설정합니다.
 
 ### 4. 호스트 파일 수정
 
@@ -46,11 +46,11 @@ Windows의 경우, C:\Windows\System32\drivers\etc\hosts 파일을 관리자 권
 127.0.0.1 estimate
 ```
 
-이는 로컬 도메인 estimate을 로컬호스트 IP 주소에 매핑합니다.
+이는 로컬 도메인 dadestimate을 로컬호스트 IP 주소에 매핑합니다.
 
 ### 5. 프로젝트 폴더 생성
 
-C:\xampp\htdocs 내에 estimate라는 이름의 폴더를 만들고, 해당 폴더에 프로그램 코드를 넣습니다.
+C:\xampp\htdocs 내에 dadestimate라는 이름의 폴더를 만들고, 해당 폴더에 프로그램 코드를 넣습니다.
 
 ### XAMPP 자동 실행
 
@@ -58,4 +58,4 @@ XAMPP Control Panel을 사용하여 Apache을 자동으로 시작하도록 설�
 XAMPP Control Panel을 열고, Apache 옆의 'Service' 체크박스를 선택하여 시스템 시작 시 자동으로 실행되도록 합니다.
 
 ### 사용 방법
-모든 설정이 완료되면, 웹 브라우저에서 http://estimate/ 로 접속하여 프로그램을 사용할 수 있습니다.
+모든 설정이 완료되면, 웹 브라우저에서 http://dadestimate/ 로 접속하여 프로그램을 사용할 수 있습니다.
