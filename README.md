@@ -2,6 +2,11 @@
 
 이 프로그램은 타자가 느린 분들을 위해 드래그 앤 드랍으로 견적서 양식을 쉽게 작성하고 인쇄할 수 있도록 만들어진 웹 애플리케이션입니다.
 
+### 스크린 샷
+<img width="1271" alt="Untitled (8)" src="https://github.com/user-attachments/assets/e1521a64-ae69-4f3e-9a68-f18fb1ba1047">
+<img width="1275" alt="Untitled (5)" src="https://github.com/user-attachments/assets/82d7e551-3bf1-4f1e-a91b-848799ec49f9">
+<img width="1276" alt="Untitled (4)" src="https://github.com/user-attachments/assets/ae2226d1-f474-4f9a-8cc5-7fa43bf2d641">
+
 ## 시작하기 전에
 
 본 프로그램을 사용하기 위해서는 먼저 XAMPP를 설치해야 합니다.
@@ -59,3 +64,4 @@ XAMPP Control Panel을 열고, Apache 옆의 'Service' 체크박스를 선택하
 
 ### 사용 방법
 모든 설정이 완료되면, 웹 브라우저에서 http://dadestimate/ 로 접속하여 프로그램을 사용할 수 있습니다.
+
